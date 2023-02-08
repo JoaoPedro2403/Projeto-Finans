@@ -1,1 +1,2 @@
 # Projeto-Finans
+Projeto-Finans foi criado apartir de um curso de desenvolvimento web usando HTML com a linguagem de marcação, CSS para fazer o Style do projeto e por fim o Bootstrap. Nas proximas versões será implementado o JavaScript para melhor funcionamento do projeto.
